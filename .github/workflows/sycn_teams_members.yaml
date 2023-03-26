@@ -14,3 +14,4 @@ jobs:
       with:
         repo-token: "${{ secrets.GH_TOKEN }}"
         team-data-path: '.github/teams.yaml'
+        team_sync_ignored: true
