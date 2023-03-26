@@ -1,0 +1,4 @@
+test:
+  members:
+  - name: test-dojinyou
+    github: dojinyou
