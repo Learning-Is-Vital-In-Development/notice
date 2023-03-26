@@ -2,7 +2,7 @@ name: Update members
 
 on:
   push:
-    branch:
+    branches:
       - main
     paths:
       - 'members.yaml'
@@ -18,6 +18,6 @@ jobs:
       
       - uses: codingpot/github-org-member-manage-action@v1
         with:
-          gh_token: ${{ secrets.GH_TOKEN }}
+          gh_token: ${{ secrets.GITH_TOKEN }}
           members_filepath: members.yaml
           mode: sync

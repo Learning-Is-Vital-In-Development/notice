@@ -2,7 +2,7 @@ name: Generate members
 
 on:
   push:
-    branch:
+    branches:
       - main
     paths:
       - 'members.yaml'
