@@ -2,7 +2,10 @@ name: Update members
 
 on:
   push:
-    branches: [main]
+    branch:
+      - main
+    paths:
+      - 'members.yaml'
 
   workflow_dispatch:
 

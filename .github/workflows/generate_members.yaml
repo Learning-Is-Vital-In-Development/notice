@@ -1,7 +1,11 @@
 name: Generate members
 
 on:
-  workflow_dispatch:
+  push:
+    branch:
+      - main
+    paths:
+      - 'members.yaml'
 
 jobs:
   generate-members:
