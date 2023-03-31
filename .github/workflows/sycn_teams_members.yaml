@@ -4,7 +4,7 @@ on:
     branches:
       - main
     paths:
-      - '.github/teams.yaml'
+      - 'teams.yaml'
 
 jobs:
   synchronize-teams:
@@ -13,4 +13,4 @@ jobs:
     - uses: rmacklin/team-sync@v0
       with:
         repo-token: "${{ secrets.GH_TOKEN }}"
-        team-data-path: '.github/teams.yaml'
+        team-data-path: 'teams.yaml'

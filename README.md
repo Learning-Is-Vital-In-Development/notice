@@ -23,7 +23,7 @@
   > Github ORG 멤버 신청 및 스터디 Team 추가 방법
   > 1. notice repo fork하기
   > 2. member.yaml 파일 속 하단에 자신의 Github username 추가하기
-  > 3. /.github/teams.yaml 파일 속 참여 스터디 하단에 자신의 Github username 추가하기
+  > 3. teams.yaml 파일 속 참여 스터디 하단에 자신의 Github username 추가하기
   > 4. pr 생성하기
 
 **스터디 불성실한 참여가 주기적으로 발생하는 인원의 경우 스터디 진행에 방해가 된다고 판단하여 모임에서 제외될 수 있습니다.**
