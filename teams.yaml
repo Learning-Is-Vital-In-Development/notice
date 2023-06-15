@@ -9,6 +9,7 @@
 23-11-DesigningDataIntensiveApplications:
   members:
   - github: dojinyou
+  - github: songkg7
 
 23-6-RealMySQL:
   members:
@@ -27,6 +28,7 @@
   - github: rachel5004
   - github: this-is-spear
   - github: NewEgoDoc
+  - github: songkg7
   
 23-8-SpringBoot:
   members:
