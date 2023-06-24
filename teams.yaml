@@ -2,6 +2,8 @@
   members:
   - github: dojinyou
   - github: dogyeong
+  - github: sasha1107
+  - github: CodyMan0
 
 23-10-DesignPattern:
   members:
@@ -12,7 +14,9 @@
   members:
   - github: dojinyou
   - github: jungyeons
-
+  - github: gzgzg2
+  - github: jungmini0601
+  
 23-11-DesigningDataIntensiveApplications:
   members:
   - github: dojinyou
