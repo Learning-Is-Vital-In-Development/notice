@@ -7,11 +7,17 @@
   members:
   - github: dojinyou
   - github: jungyeons
+  
+23-13-DesignPattern:
+  members:
+  - github: dojinyou
+
 23-11-DesigningDataIntensiveApplications:
   members:
   - github: dojinyou
   - github: songkg7
   - github: eastperson
+
 23-6-RealMySQL:
   members:
   - github: dojinyou
