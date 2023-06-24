@@ -1,58 +1,59 @@
 23-12-FrontendPerformanceOptimizationGuide:
   members:
-  - github: dojinyou
-  - github: dogyeong
+    - github: dojinyou
+    - github: dogyeong
+    - github: CodyMan0
 
 23-10-DesignPattern:
   members:
-  - github: dojinyou
-  
+    - github: dojinyou
+    - github: Yesung-Han
+
 23-13-DesignPattern:
   members:
-  - github: dojinyou
-  - github: jungyeons
+    - github: dojinyou
+    - github: jungyeons
 
 23-11-DesigningDataIntensiveApplications:
   members:
-  - github: dojinyou
-  - github: songkg7
-  - github: eastperson
+    - github: dojinyou
+    - github: songkg7
+    - github: eastperson
 
 23-6-RealMySQL:
   members:
-  - github: dojinyou
-  - github: choihuk
-  - github: sectionr0
-  - github: tlarbals824
-  - github: 5uhwann
-  - github: Youngcircle-kim
-  - github: JEONG-JIHWAN
-  
+    - github: dojinyou
+    - github: choihuk
+    - github: sectionr0
+    - github: tlarbals824
+    - github: 5uhwann
+    - github: Youngcircle-kim
+    - github: JEONG-JIHWAN
+
 23-7-SystemDesignInterview:
   members:
-  - github: dojinyou
-  - github: sectionr0
-  - github: rachel5004
-  - github: this-is-spear
-  - github: NewEgoDoc
-  - github: songkg7
-  
+    - github: dojinyou
+    - github: sectionr0
+    - github: rachel5004
+    - github: this-is-spear
+    - github: NewEgoDoc
+    - github: songkg7
+
 23-8-SpringBoot:
   members:
-  - github: dojinyou
-  - github: 5uhwann
-  - github: jungyeons
-  - github: youngreal
-  - github: princenim
-  - github: eastperson
-  
+    - github: dojinyou
+    - github: 5uhwann
+    - github: jungyeons
+    - github: youngreal
+    - github: princenim
+    - github: eastperson
+
 23-9-Algorithm:
   members:
-  - github: dojinyou
-  - github: 5uhwann
-  - github: jungyeons
-  - github: songkg7
-  - github: dawonparkk
-  - github: penrose15
-  - github: tinajeong
-  
+    - github: dojinyou
+    - github: 5uhwann
+    - github: jungyeons
+    - github: songkg7
+    - github: dawonparkk
+    - github: penrose15
+    - github: tinajeong
