@@ -1,10 +1,5 @@
 name: 'Team Sync'
-on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'teams.yaml'
+on: workflow_dispatch
 
 jobs:
   synchronize-teams:
