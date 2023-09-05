@@ -13,6 +13,7 @@
 23-16-docker-textbook-2:
   members:
   - github: dojinyou
+  - github: choihuk
   
 23-15-docker-textbook-1:
   members:
