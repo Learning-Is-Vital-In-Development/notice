@@ -9,6 +9,7 @@
 23-17-pair-programming-game:
   members:
   - github: dojinyou
+  - github: songkg7
 
 23-16-docker-textbook-2:
   members:
@@ -18,6 +19,7 @@
 23-15-docker-textbook-1:
   members:
   - github: dojinyou
+  - github: songkg7
 
 23-14-JSCodingTechniquesAndCorePatterns:
   members:
