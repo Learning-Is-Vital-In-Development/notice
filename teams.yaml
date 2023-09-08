@@ -1,6 +1,7 @@
 23-19-clean-code:
   members:
   - github: dojinyou
+  - github: doxxx93:
 
 23-18-frontend-test:
   members:
@@ -10,6 +11,7 @@
   members:
   - github: dojinyou
   - github: songkg7
+  - github: doxxx93
 
 23-16-docker-textbook-2:
   members:
@@ -21,6 +23,7 @@
 23-15-docker-textbook-1:
   members:
   - github: dojinyou
+  - github: doxxx93
 
 23-14-JSCodingTechniquesAndCorePatterns:
   members:
