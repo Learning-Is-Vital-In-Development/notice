@@ -6,6 +6,12 @@
 23-18-frontend-test:
   members:
   - github: dojinyou
+  - github: dogyeong
+  - github: HOJOON07
+  - github: dohye1
+  - github: CodyMan0
+  - github: sasha1107
+  - github: jiji-hoon96
 
 23-17-pair-programming-game:
   members:
