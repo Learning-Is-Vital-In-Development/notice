@@ -18,7 +18,7 @@
 
 ## 신규 모임원 참여 방법
 1. [discord](https://discord.gg/bnfS2s8vkV)로 접속하기
-2. 운영진에게 연락해서 참여 의사 전달하기
+2. discord의 "유도진"에게 DM으로 역할 요청하기
 3. discord 멤버 역할 획득 후 깃허브 멤버 신청 및 스터디 팀 등록하기
   > Github ORG 멤버 신청 및 스터디 Team 추가 방법
   > 1. notice repo fork하기
