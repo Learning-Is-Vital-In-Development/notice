@@ -17,6 +17,6 @@ jobs:
       
       - uses: codingpot/github-org-member-manage-action@v1
         with:
-          gh_token: ${{ secrets.GITH_TOKEN }}
+          gh_token: ${{ secrets.ORG_ADMIN_TOKEN }}
           members_filepath: members.yaml
           mode: sync
