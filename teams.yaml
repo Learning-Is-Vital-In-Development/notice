@@ -2,10 +2,6 @@
   members:
   - github: doxxx93
   - github: devysk
-  - name: temp
-    github: lsh2613
-  - name: temp
-    github: yangyunhyeuk
 
 23-18-frontend-test:
   members:
