@@ -25,6 +25,7 @@
 24-optimizing-java-1:
   members:
   - github: dojinyou
+  - github: choihuk
   
 24-Hexagonal-Developer:
   members:
