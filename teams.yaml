@@ -5,14 +5,17 @@
 24-opensource-contribute:
   members:
   - github: dojinyou
+  - github: this-is-spear
   
 24-interview:
   members:
   - github: dojinyou
-  
+  - github: this-is-spear
+
 24-pair-programming-game:
   members:
   - github: dojinyou
+  - github: this-is-spear
 
 24-optimizing-java-2:
   members:
