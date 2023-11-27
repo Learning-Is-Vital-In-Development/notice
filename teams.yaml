@@ -20,6 +20,7 @@
 24-optimizing-java-2:
   members:
   - github: dojinyou
+  - github: 5uhwann
   
 24-optimizing-java-1:
   members:
