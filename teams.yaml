@@ -6,11 +6,13 @@
   members:
   - github: dojinyou
   - github: this-is-spear
+  - github: rachel5004
   
 24-interview:
   members:
   - github: dojinyou
   - github: this-is-spear
+  - github: rachel5004
 
 24-pair-programming-game:
   members:
@@ -22,6 +24,7 @@
   members:
   - github: dojinyou
   - github: 5uhwann
+  - github: rachel5004
   
 24-optimizing-java-1:
   members:
@@ -39,6 +42,7 @@
 24-software-architecture-101-1:
   members:
   - github: dojinyou
+  - github: rachel5004
 
 23-19-clean-code:
   members:
