@@ -1,7 +1,8 @@
 24-frontend-tech-talk:
   members:
   - github: dojinyou
-  
+  - github: sso214
+
 24-opensource-contribute:
   members:
   - github: dojinyou
@@ -35,6 +36,8 @@
   members:
   - github: dojinyou
   - github: jungyeons
+  - github: sso214
+
 24-software-architecture-101-2:
   members:
   - github: dojinyou
