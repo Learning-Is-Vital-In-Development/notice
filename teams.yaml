@@ -44,7 +44,8 @@
 24-software-architecture-101-2:
   members:
   - github: dojinyou
-  
+  - github: JaekwonHa
+
 24-software-architecture-101-1:
   members:
   - github: dojinyou
