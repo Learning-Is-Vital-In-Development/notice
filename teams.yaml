@@ -1,201 +1,212 @@
+24-software-hard-part:
+  members:
+    - github: dojinyou
+    - github: doxxx93
+    - github: eastperson
+    - github: akfls221
+    - github: startdata
+    - github: joonfluence
+    - github: Jyejin
+    - github: sue4869
+    - github: im-gnar
+
 24-frontend-tech-talk:
   members:
-  - github: dojinyou
-  - github: sso214
-  - github: dogyeong
-  - github: jiji-hoon96
-  - github: sasha1107
+    - github: dojinyou
+    - github: sso214
+    - github: dogyeong
+    - github: jiji-hoon96
+    - github: sasha1107
 
 24-opensource-contribute:
   members:
-  - github: dojinyou
-  - github: this-is-spear
-  - github: rachel5004
-  - github: dididy
-  - github: mollder
-  - github: dev-owen
-  - github: yonghyeokrhee
-  - github: songkg7
-  - github: bonhaenglee
-  - github: haejiii
-  
+    - github: dojinyou
+    - github: this-is-spear
+    - github: im-gnar
+    - github: dididy
+    - github: mollder
+    - github: dev-owen
+    - github: yonghyeokrhee
+    - github: songkg7
+    - github: bonhaenglee
+    - github: haejiii
+
 24-interview:
   members:
-  - github: dojinyou
-  - github: this-is-spear
-  - github: rachel5004
-  - github: doxxx93
-  - github: jivebreaddev
+    - github: dojinyou
+    - github: this-is-spear
+    - github: im-gnar
+    - github: doxxx93
+    - github: jivebreaddev
 
 24-optimizing-java-2:
   members:
-  - github: dojinyou
-  - github: 5uhwann
-  - github: rachel5004
-  - github: ujin2021
-  - github: doxxx93
-  - github: lsj8367
-  - github: youngjijang
-  - github: jivebreaddev
-  
+    - github: dojinyou
+    - github: 5uhwann
+    - github: im-gnar
+    - github: ujin2021
+    - github: doxxx93
+    - github: lsj8367
+    - github: youngjijang
+    - github: jivebreaddev
+
 24-optimizing-java-1:
   members:
-  - github: dojinyou
-  - github: choihuk
-  - github: yangyunhyeuk
-  - github: jemlog
-  - github: nmin11
-  - github: tinajeong
-  - github: stophwan
-  
+    - github: dojinyou
+    - github: choihuk
+    - github: yangyunhyeuk
+    - github: jemlog
+    - github: nmin11
+    - github: tinajeong
+    - github: stophwan
+
 24-Hexagonal-Developer:
   members:
-  - github: dojinyou
-  - github: jungyeons
-  - github: sso214
-  - github: thalals
-  - github: songkg7
-  - github: dongmikim
-  - github: sm9171
+    - github: dojinyou
+    - github: jungyeons
+    - github: sso214
+    - github: thalals
+    - github: songkg7
+    - github: dongmikim
+    - github: sm9171
 
 24-software-architecture-101-2:
   members:
-  - github: dojinyou
-  - github: JaekwonHa
-  - github: Jyejin
-  - github: s2moon98
-  - github: dev-owen
-  - github: sue4869
-  
+    - github: dojinyou
+    - github: JaekwonHa
+    - github: Jyejin
+    - github: s2moon98
+    - github: dev-owen
+    - github: sue4869
+
 24-software-architecture-101-1:
   members:
-  - github: dojinyou
-  - github: rachel5004
-  - github: hobeen-kim
-  - github: doxxx93
-  - github: devheedoo
+    - github: dojinyou
+    - github: im-gnar
+    - github: hobeen-kim
+    - github: doxxx93
+    - github: devheedoo
 
 23-19-clean-code:
   members:
-  - github: doxxx93
-  - github: devysk
-  - github: lsh2613
-  - github: yangyunhyeuk
+    - github: doxxx93
+    - github: devysk
+    - github: lsh2613
+    - github: yangyunhyeuk
 
 23-18-frontend-test:
   members:
-  - github: dogyeong
-  - github: HOJOON07
-  - github: dohye1
-  - github: CodyMan0
-  - github: sasha1107
-  - github: jiji-hoon96
+    - github: dogyeong
+    - github: HOJOON07
+    - github: dohye1
+    - github: CodyMan0
+    - github: sasha1107
+    - github: jiji-hoon96
 
 23-17-pair-programming-game:
   members:
-  - github: songkg7
-  - github: doxxx93
-  - github: this-is-spear
+    - github: songkg7
+    - github: doxxx93
+    - github: this-is-spear
 
 23-16-docker-textbook-2:
   members:
-  - github: choihuk
-  - github: songkg7
-  - github: tlarbals824
-  - github: jivebreaddev
-  - github: jungin-jin-choi
-  - github: sue4869
-  - github: doxxx93
-  
+    - github: choihuk
+    - github: songkg7
+    - github: tlarbals824
+    - github: jivebreaddev
+    - github: jungin-jin-choi
+    - github: sue4869
+    - github: doxxx93
+
 23-15-docker-textbook-1:
   members:
-  - github: tinajeong
-  - github: dev-owen
+    - github: tinajeong
+    - github: dev-owen
 
 23-14-JSCodingTechniquesAndCorePatterns:
   members:
-  - github: dojinyou
-  - github: dogyeong
-  - github: HOJOON07
-  - github: dohye1
-  - github: CodyMan0
-  - github: sasha1107
-  - github: jiji-hoon96
+    - github: dojinyou
+    - github: dogyeong
+    - github: HOJOON07
+    - github: dohye1
+    - github: CodyMan0
+    - github: sasha1107
+    - github: jiji-hoon96
 
 23-12-FrontendPerformanceOptimizationGuide:
   members:
-  - github: dojinyou
-  - github: dogyeong
-  - github: sasha1107
-  - github: ding-co
-  - github: CodyMan0
-  - github: jiji-hoon96
-  - github: HOJOON07
+    - github: dojinyou
+    - github: dogyeong
+    - github: sasha1107
+    - github: ding-co
+    - github: CodyMan0
+    - github: jiji-hoon96
+    - github: HOJOON07
 
 23-10-DesignPattern:
   members:
-  - github: dojinyou
-  - github: Yesung-Han
-  - github: juno-junho
-  - github: JayMaro
-  - github: choihuk
-  - github: tinajeong
-  - github: suhyun96
-  
+    - github: dojinyou
+    - github: Yesung-Han
+    - github: juno-junho
+    - github: JayMaro
+    - github: choihuk
+    - github: tinajeong
+    - github: suhyun96
+
 23-13-DesignPattern:
   members:
-  - github: dojinyou
-  - github: jungyeons
-  - github: gzgzg2
-  - github: jungmini0601
-  - github: tlarbals824
-  - github: semi-cloud
-  
+    - github: dojinyou
+    - github: jungyeons
+    - github: gzgzg2
+    - github: jungmini0601
+    - github: tlarbals824
+    - github: semi-cloud
+
 23-11-DesigningDataIntensiveApplications:
   members:
-  - github: dojinyou
-  - github: songkg7
-  - github: eastperson
-  - github: akfls221
-  - github: menthamin
-  - github: rachel5004
-  - github: dawonparkk
+    - github: dojinyou
+    - github: songkg7
+    - github: eastperson
+    - github: akfls221
+    - github: menthamin
+    - github: im-gnar
+    - github: dawonparkk
 
 23-6-RealMySQL:
   members:
-  - github: dojinyou
-  - github: choihuk
-  - github: sectionr0
-  - github: tlarbals824
-  - github: 5uhwann
-  - github: Youngcircle-kim
-  - github: JEONG-JIHWAN
-  
+    - github: dojinyou
+    - github: choihuk
+    - github: sectionr0
+    - github: tlarbals824
+    - github: 5uhwann
+    - github: Youngcircle-kim
+    - github: JEONG-JIHWAN
+
 23-7-SystemDesignInterview:
   members:
-  - github: dojinyou
-  - github: sectionr0
-  - github: rachel5004
-  - github: this-is-spear
-  - github: NewEgoDoc
-  - github: songkg7
-  
+    - github: dojinyou
+    - github: sectionr0
+    - github: im-gnar
+    - github: this-is-spear
+    - github: NewEgoDoc
+    - github: songkg7
+
 23-8-SpringBoot:
   members:
-  - github: dojinyou
-  - github: 5uhwann
-  - github: jungyeons
-  - github: youngreal
-  - github: princenim
-  - github: eastperson
-  
+    - github: dojinyou
+    - github: 5uhwann
+    - github: jungyeons
+    - github: youngreal
+    - github: princenim
+    - github: eastperson
+
 23-9-Algorithm:
   members:
-  - github: dojinyou
-  - github: 5uhwann
-  - github: jungyeons
-  - github: songkg7
-  - github: dawonparkk
-  - github: penrose15
-  - github: tinajeong
-  
+    - github: dojinyou
+    - github: 5uhwann
+    - github: jungyeons
+    - github: songkg7
+    - github: dawonparkk
+    - github: penrose15
+    - github: tinajeong
