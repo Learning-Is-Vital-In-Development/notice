@@ -1,3 +1,11 @@
+managers:
+  members:
+    - github: dojinyou
+    - github: doxxx93
+    - github: songkg7
+    - github: im-gnar
+    - github: choihuk
+
 24-sql-tuning:
   members:
     - github: dojinyou
