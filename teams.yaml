@@ -6,6 +6,13 @@ managers:
     - github: im-gnar
     - github: choihuk
 
+24-kafka-core-guide:
+  members:
+    - github: choihuk
+    - github: tlarbals824
+    - github: dl-00-e8
+    - github: otrodevym
+
 24-sql-tuning:
   members:
     - github: dojinyou
