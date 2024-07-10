@@ -6,6 +6,15 @@ managers:
     - github: im-gnar
     - github: choihuk
 
+24-kafka-app-programming:
+  members:
+    - github: bnjjong
+    - github: dldmsql
+    - github: isprogrammingfun
+    - github: sm9171
+    - github: dawonparkk
+
+
 24-kafka-core-guide:
   members:
     - github: choihuk
