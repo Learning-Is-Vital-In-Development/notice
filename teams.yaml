@@ -6,6 +6,12 @@ managers:
     - github: im-gnar
     - github: choihuk
 
+24-blog-whip:
+  members:
+    - github: choihuk
+    - github: tlarbals824
+    - github: dohye1
+
 24-kafka-app-programming:
   members:
     - github: bnjjong
@@ -13,7 +19,6 @@ managers:
     - github: isprogrammingfun
     - github: sm9171
     - github: dawonparkk
-
 
 24-kafka-core-guide:
   members:
@@ -45,7 +50,6 @@ managers:
     - github: meengi07
     - github: limhaneul12
     - github: Yesung-Han
-
 
 24-software-hard-part:
   members:
