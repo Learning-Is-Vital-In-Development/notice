@@ -12,6 +12,8 @@ managers:
     - github: tlarbals824
     - github: dohye1
     - github: doxxx93
+    - github: tinajeong
+    
 
 24-kafka-app-programming:
   members:
