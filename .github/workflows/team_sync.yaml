@@ -1,5 +1,7 @@
 name: 'Team Sync'
-on:
+
+on: 
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,5 +14,5 @@ jobs:
     steps:
     - uses: rmacklin/team-sync@v0
       with:
-        repo-token: "${{ secrets.GH_TOKEN }}"
+        repo-token: "${{ secrets.ORG_ADMIN_TOKEN }}"
         team-data-path: 'teams.yaml'
