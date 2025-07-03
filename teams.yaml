@@ -6,6 +6,11 @@ managers:
     - github: im-gnar
     - github: choihuk
 
+25-java-concurrency:
+  members:
+    - github: TaeKwon
+   
+
 24-blog-whip:
   members:
     - github: choihuk
