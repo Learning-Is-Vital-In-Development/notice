@@ -8,7 +8,7 @@ managers:
 
 25-java-concurrency:
   members:
-    - github: TaeKwon
+    - github: Eom-Ti
    
 
 24-blog-whip:
