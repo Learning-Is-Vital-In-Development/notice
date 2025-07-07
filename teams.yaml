@@ -9,6 +9,14 @@ managers:
 25-java-concurrency:
   members:
     - github: Eom-Ti
+    - github: Yiseull
+    - github: Jihyun-Choi
+    - github: Park-Yena00
+    - github: JunDonghyuk
+    - github: dlwnsgus777
+    - github: dlxorb96
+    - github: kyungjinleelee
+    - github: youngreal
    
 
 24-blog-whip:
